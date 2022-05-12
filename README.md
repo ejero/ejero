@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/lovelittlerose" target="blank"><img src="https://img.shields.io/twitter/follow/lovelittlerose?logo=twitter&style=for-the-badge" alt="lovelittlerose" /></a> </p>
 
-- 🔭 I’m currently working on **Python Projects**
+- 🔭 I’m currently working on **Python BookSearch API Project**
 
 - 🌱 I’m currently learning **Python and JavaScript**
 
