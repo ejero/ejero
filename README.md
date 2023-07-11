@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Python BookSearch API Project**
 
-- 🌱 I’m currently learning **Python and JavaScript**
+- 🌱 I’m currently learning **Python, Java and JavaScript**
 
 - ⚡ Fun fact **I am learning Mandarin Chinese**
 
