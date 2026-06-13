@@ -43,9 +43,3 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rositaemakpo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rosita's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rositaemakpo&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
-</p>
