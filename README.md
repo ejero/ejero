@@ -15,7 +15,7 @@
 
 ### 🧰 Tech I work with
 
-- **Languages:** Python, JavaScript / TypeScript, Java
+- **Languages:** Python, JavaScript / TypeScript
 - **Frontend:** React, Vite, TailwindCSS, HTML/CSS
 - **Backend:** Node.js / Express, Flask
 - **Infra & tooling:** Docker, AWS, Linux, Git
@@ -24,7 +24,7 @@
 ### 🌱 A bit more
 
 - 🔭 Currently focused on **Jebrin** and **Diannao**
-- 🌏 Learning **Mandarin Chinese** 🀄
+- 🌏 Learning **AI and AI Agents** 🀄
 - ⚡ I like turning messy ideas into shipped, working software
 
 <h3 align="left">Languages and Tools:</h3>
