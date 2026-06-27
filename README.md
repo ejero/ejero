@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rosita Emakpo</h1>
-<h3 align="center">Full-stack developer from the US, building AI-driven tools & automation</h3>
+<h1 align="center">Hi 👋, I'm Rosita</h1>
+<h3 align="center">Full-stack developer, building AI-driven tools & automation</h3>
 
 <p align="center">
   <a href="https://twitter.com/lovelittlerose" target="_blank"><img src="https://img.shields.io/twitter/follow/lovelittlerose?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a>
